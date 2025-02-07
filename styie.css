@@ -1,0 +1,28 @@
+h1{
+    background-color: rgb(135, 135, 241);
+    color: rgb(13, 13, 66);
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+}
+.text1{
+    color: green;
+}
+.text2{
+    text-align: center;
+    background-color: yellow;
+}
+.text3{
+    text-align: center;
+    background-color: yellow;
+}
+h4{
+    color: green;
+}
+#tet{
+    width: 800px;height: 40px;
+}
+.yyy{
+    text-align: center;
+    background-color: yellow;
+}
